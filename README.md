@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hello, I'm Jatin Sharma | Junior Software Developer<br><br>📚 Full-Stack Developer specializing in MERN Stack.<br> Experienced with PHP backend development.<br>Interested in Web3, Blockchain, and decentralized apps.<br>Building modern web solutions one project at a time.
- <br><br>🔗 Connect: [LinkedIn :- www.linkedin.com/in/jatin-sharma-143k1432
+ <br><br>🔗 Connect: [LinkedIn :- www.linkedin.com/in/jatin-sharma-143k1432     
 
 
 ## 🌐 Socials:

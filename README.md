@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, I'm Jatin Sharma | Junior Software Developer<br><br>📚 Full-Stack Developer specializing in MERN Stack.<br> Experienced with PHP backend development.<br>Interested in Web3, Blockchain, and decentralized apps.<br>Building modern web solutions one project at a time.
+👋 Hello, I'm Jatin Sharma <br> Junior Software Developer | Full Stack Web Developer | Shopify App Developer<br><br>📚 I work with PHP, React.js, JavaScript, Node.js, and the MERN stack to build responsive web applications, backend APIs, merchant dashboards, and product-based web app features.<br> I have hands-on experience in feature development, REST API integration, UI improvements, debugging, testing, and working on Shopify app modules.<br>Currently focused on building clean, scalable, and practical web applications while improving my skills in full-stack development.
  <br><br>🔗 Connect: [LinkedIn :- www.linkedin.com/in/jatin-sharma-143k1432     
 
 
